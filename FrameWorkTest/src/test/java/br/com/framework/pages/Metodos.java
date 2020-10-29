@@ -8,6 +8,7 @@ public class Metodos {
 
 	WebDriver driver;
 
+	//abrir navegador
 	public void navegador(String url, String navegador) {
 
 		switch (navegador) {
